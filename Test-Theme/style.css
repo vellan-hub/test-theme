@@ -1,0 +1,22 @@
+/*!
+Theme Name: Test Theme
+Theme URI: 
+Author: VeLLaN
+Author URI: 
+Description: Description
+Version: 1.0.0
+Tested up to: 8.0
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+*/
+html {
+  scroll-behavior: smooth;
+}
+.hidden {
+  visibility: hidden;
+}
+
+a {
+  outline: none;
+}

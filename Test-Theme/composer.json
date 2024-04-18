@@ -1,0 +1,17 @@
+{
+    "name": "vellan/test-theme",
+    "autoload": {
+        "psr-4": {
+            "Vellan\\TestTheme\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VeLLaN",
+            "email": "falkon777.13@gmail.com"
+        }
+    ],
+    "require": {
+        "unsplash/unsplash": "^3.2"
+    }
+}
